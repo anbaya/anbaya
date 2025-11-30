@@ -1,6 +1,6 @@
 <!-- GIF HEADER BANNER -->
 
-<h1 align="center">💫 Anoir Baya</h1>
+<h1 align="center">🐐 Anoir Baya</h1>
 
 <h3 align="center">Full-Stack • Cloud • Systems • DevOps Engineer</h3>
 
