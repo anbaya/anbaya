@@ -148,7 +148,8 @@ Thread synchronization
 
 # 📫 Contact Me
 - **LinkedIn:** www.linkedin.com/in/anoir-baya-544212258  
-- **Email:** bayaanwar96@gmail.com  
+- **Email:** bayaanwar96@gmail.com
+- **Whatsapp +212655690519** 
 
 ---
 
