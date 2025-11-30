@@ -5,7 +5,7 @@
 <h3 align="center">Full-Stack • Cloud • Systems • DevOps Engineer</h3>
 
 <p align="center">
-  <img src="./assists/hacker.jpg" alt="Anoir Baya Banner" width="100%">
+  <img src="./assists/pc.gif" alt="Anoir Baya Banner" width="100%">
 </p>
 
 <p align="center">
