@@ -101,10 +101,31 @@ Thread synchronization
 
 # 📈 GitHub Stats
 
+# 🆕 Latest GitHub Projects (Auto-Updated)
+
+### 🔥 Highlighted Projects  
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=anbaya&show_icons=true&theme=tokyonight" height="165">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anbaya&layout=compact&theme=tokyonight" height="165">
+  <!-- Full-Stack & eCommerce -->
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anbaya&repo=Full-Stack-E-Commerce-Store&theme=tokyonight&cache_seconds=0" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anbaya&repo=E-commerce-back-end&theme=tokyonight&cache_seconds=0" />
+  
+  <!-- Add your other projects below -->
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anbaya&repo=YOUR-LANDING-PAGE-REPO&theme=tokyonight&cache_seconds=0" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anbaya&repo=YOUR-SECOND-LANDING-PAGE&theme=tokyonight&cache_seconds=0" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anbaya&repo=YOUR-FULLSTACK-APP&theme=tokyonight&cache_seconds=0" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anbaya&repo=YOUR-API-OR-DEVOPS-PROJECT&theme=tokyonight&cache_seconds=0" />
 </p>
+
+### 🔄 Automatic Recent Repos (sorted by activity)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anbaya&theme=tokyonight&show_icons=true" />
+</p>
+
+### 🧠 Recent Activity Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anbaya&theme=tokyo-night" />
+</p>
+
 
 <p align="center">
 <img src="https://streak-stats.demolab.com/?user=anbaya&theme=tokyonight" height="165">
