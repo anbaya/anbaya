@@ -92,11 +92,6 @@ Thread synchronization
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=anbaya&repo=E-commerce-back-end&theme=tokyonight&cache_seconds=0" />
 </p>
 
-### 🧠 Recent Activity Graph  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anbaya&theme=tokyo-night" />
-</p>
-
 ---
 
 # 📈 GitHub Stats
