@@ -53,7 +53,7 @@ Thread synchronization
 ➡️ mutexes, race conditions, timing, deadlock avoidance  
 
 ### 🎮 Raycasting & MLX Engine  
-2D graphics engine  
+3D and 2D graphics engine  
 ➡️ pixel buffers, raycasting logic, movement, math  
 
 ---
