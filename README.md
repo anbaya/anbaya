@@ -103,12 +103,14 @@ Thread synchronization
   <!-- Full-Stack & eCommerce -->
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=anbaya&repo=Full-Stack-E-Commerce-Store&theme=tokyonight&cache_seconds=0" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=anbaya&repo=E-commerce-back-end&theme=tokyonight&cache_seconds=0" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anbaya&repo=Cloud-Mate-Landing-Page&theme=tokyonight&cache_seconds=0" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anbaya&repo=cube-3D-Ray-Casting&theme=tokyonight&cache_seconds=0" />
   
   <!-- Add your other projects below -->
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anbaya&repo=YOUR-LANDING-PAGE-REPO&theme=tokyonight&cache_seconds=0" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anbaya&repo=YOUR-SECOND-LANDING-PAGE&theme=tokyonight&cache_seconds=0" />
+  <!--
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=anbaya&repo=YOUR-FULLSTACK-APP&theme=tokyonight&cache_seconds=0" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=anbaya&repo=YOUR-API-OR-DEVOPS-PROJECT&theme=tokyonight&cache_seconds=0" />
+  -->
 </p>
 
 ### 🔄 Automatic Recent Repos (sorted by activity)
