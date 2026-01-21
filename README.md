@@ -14,7 +14,7 @@
 
 ---
 
-# 🌐 Web Projects (Primary Focus)
+# 🌐 Web Projects
 
 I build **a lot** of web projects — especially:
 
