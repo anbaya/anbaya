@@ -2,7 +2,7 @@
 
 <h1 align="center">🐐 Anoir Baya</h1>
 
-<h3 align="center">Full-Stack • Cloud • Systems • DevOps Engineer</h3>
+<h3 align="center">Cloud • Systems • DevOps Engineer</h3>
 
 <p align="center">
   <img src="./assists/banner.gif" alt="Anoir Baya Banner" width="100%">
