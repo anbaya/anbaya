@@ -18,14 +18,6 @@
 
 I build **a lot** of web projects — especially:
 
-### ⚡ Landing Pages  
-- Modern UIs  
-- Smooth animations  
-- Responsive & fast  
-- SEO-optimized  
-- Professional designs  
-✔️ *More coming every week.*
-
 ### 🧰 Full-Stack Apps  
 - Node.js + Express APIs  
 - Auth (JWT / sessions)  
@@ -39,6 +31,14 @@ I build **a lot** of web projects — especially:
 - Reverse proxying  
 - SSL certificates  
 - Production environments  
+
+### ⚡ Landing Pages  
+- Modern UIs  
+- Smooth animations  
+- Responsive & fast  
+- SEO-optimized  
+- Professional designs  
+✔️ *More coming every week.*
 
 ---
 
